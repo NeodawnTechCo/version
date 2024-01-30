@@ -1,0 +1,11 @@
+{
+    "channels": [
+        {
+            "channelName": "release",
+            "currentVersion": "1.1.0",
+            "releaseDate": "2024-01-30T03:05:50.002Z",
+            "downloadUrl": null,
+            "changelog": null
+        }
+    ]
+}
